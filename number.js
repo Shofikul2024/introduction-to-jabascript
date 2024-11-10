@@ -9,5 +9,6 @@ console.log( chocolatePrice);
  console.log( orangePrice);
  console.log( orangePrice +  applePrice);
  console.log(typeof  applePrice);
+ console.log(typeof  applePrice);
 
 
